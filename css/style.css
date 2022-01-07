@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&family=Merienda&family=Vibur&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #e8e1ef;
+    font-family: 'Fira Sans', sans-serif;
+    color: #2e4057;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merienda', cursive;
+    color: #fc814a;
+}
+
+a {
+    text-decoration: none;
+}
+
+.icon img {
+    width: 1.5rem;
+}
+
+.logo {
+    width: 10rem;
+}
